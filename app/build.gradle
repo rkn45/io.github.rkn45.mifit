@@ -7,7 +7,7 @@ android {
     buildToolsVersion "32.0.0"
 
     defaultConfig {
-        applicationId "io.github.tehcneko.mifit"
+        applicationId "io.github.rkn45.mifit"
         minSdkVersion 21
         targetSdkVersion 32
         versionCode 8

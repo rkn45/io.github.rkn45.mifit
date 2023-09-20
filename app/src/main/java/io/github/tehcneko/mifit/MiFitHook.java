@@ -1,4 +1,4 @@
-package io.github.tehcneko.mifit;
+package io.github.rkn45.mifit;
 
 import android.app.Activity;
 import android.app.AlertDialog;
