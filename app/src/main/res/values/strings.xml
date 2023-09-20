@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Zepp Life Hooks</string>
+    <string name="app_name" translatable="false">Zepp Life Hooks</string>
     <string name="xposed_description">Let Zepp Life treat third-party telegram clients as official Telegram.</string>
     <string name="unsupported_title">Unsupported Zepp Life version</string>
     <string name="unsupported_message">minimum supported version: %s (%d).</string>

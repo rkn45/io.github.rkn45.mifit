@@ -31,12 +31,20 @@ public class MiFitHook implements IXposedHookLoadPackage, IXposedHookZygoteInit 
     private static final String[] PACKAGES = new String[]{
             "org.telegram.messenger.web",
             "org.telegram.messenger.beta",
+            "org.telegram.plus",
             "tw.nekomimi.nekogram",
             "tw.nekomimi.nekogram.beta",
+            "nekox.messenger",
             "com.cool2645.nekolite",
             "ua.itaysonlab.messenger",
             "org.forkclient.messenger.beta",
-            "it.owlgram.android"
+            "it.owlgram.android",
+            "xyz.nextalone.nagram",
+            "xyz.nextalone.nnngram",
+            "me.onlyfire.yukigram.beta",
+            "com.exteragram.messenger",
+            "com.radolyn.ayugram",
+            "uz.unnarsx.cherrygram"
     };
 
     private static Resources moduleResources;
