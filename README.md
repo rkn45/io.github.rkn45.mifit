@@ -1,3 +1,5 @@
-# Zepp Life Hooks
-Let Zepp Life treat third-party telegram clients as official Telegram.
-让 Zepp Lift 将第三方 Telegram 客户端视为官方 Telegram。
+# Zepp Life Hooks Fork
+
+A fork of tehcneko's [original module](https://github.com/Xposed-Modules-Repo/io.github.tehcneko.mifit) updated with with support for more clients.
+
+Lets Zepp Life treat third-party telegram clients as Telegram.
